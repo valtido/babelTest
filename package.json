@@ -1,8 +1,8 @@
 {
-  "name": "test",
+  "name": "babelTest",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/module.js",
+  "main": "dist/js/compiled/concat-es6-es5.min.js.js",
   "scripts": {
     "start": "babel index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
